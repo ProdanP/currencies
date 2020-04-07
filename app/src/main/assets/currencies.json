@@ -1,0 +1,165 @@
+{"currencies" :[
+	{
+		"code": "USD",
+		"name": "US Dollar",
+		"flag": "https://checkmobi.com/static/images/flags/US-128.png"		
+	},
+	{
+		"name": "Australian Dollar",
+		"code": "AUD",
+		"flag": "https://checkmobi.com/static/images/flags/AU-128.png"
+	},
+	{
+		"name": "Bulgarian Lev",
+		"code": "BGN",
+		"flag": "https://checkmobi.com/static/images/flags/BG-128.png"
+	},
+	{
+		"name": "Brazilian Real",
+		"code": "BRL",
+		"flag": "https://checkmobi.com/static/images/flags/BR-128.png"
+	},
+	{
+		"name": "Canadian Dollar",
+		"code": "CAD",
+		"flag": "https://checkmobi.com/static/images/flags/CA-128.png"
+	},
+	{
+		"name": "Swiss Franc",
+		"code": "CHF",
+		"flag": "https://checkmobi.com/static/images/flags/CH-128.png"
+	},
+    {
+		"name": "Chinese Yuan",
+		"code": "CNY",
+		"flag": "https://checkmobi.com/static/images/flags/CN-128.png"
+	},
+	{
+		"name": "Czech Republic Koruna",
+		"code": "CZK",
+	    "flag": "https://checkmobi.com/static/images/flags/CZ-128.png"
+	},
+	{
+		"name": "Danish Krone",
+		"code": "DKK",
+		"flag": "https://checkmobi.com/static/images/flags/DK-128.png"
+	},
+	{
+		"name": "British Pound Sterling",
+		"code": "GBP",
+		"flag": "https://checkmobi.com/static/images/flags/GB-128.png"
+	},
+	{
+		"name": "Hong Kong Dollar",
+		"code": "HKD",
+		"flag": "https://checkmobi.com/static/images/flags/HK-128.png"
+	},
+	{
+		"name": "Croatian Kuna",
+		"code": "HRK",
+		"flag": "https://checkmobi.com/static/images/flags/HR-128.png"
+	},
+	{
+		"name": "Hungarian Forint",
+		"code": "HUF",
+		"flag": "https://checkmobi.com/static/images/flags/HU-128.png"
+	},
+	{
+		"name": "Indonesian Rupiah",
+		"code": "IDR",
+		"flag": "https://checkmobi.com/static/images/flags/ID-128.png"
+	},
+	 {
+		"name": "Israeli New Sheqel",
+		"code": "ILS",
+		"flag": "https://checkmobi.com/static/images/flags/IL-128.png"
+	},
+	{
+		"name": "Indian Rupee",
+		"code": "INR",
+		"flag": "https://checkmobi.com/static/images/flags/IN-128.png"
+	},
+    {
+		"name": "Icelandic Króna",
+		"code": "ISK",
+		"flag": "https://checkmobi.com/static/images/flags/IS-128.png"
+	},
+	{
+		"name": "Japanese Yen",
+		"code": "JPY",
+		"flag": "https://checkmobi.com/static/images/flags/JP-128.png"
+	},
+	 {
+		"name": "South Korean Won",
+		"code": "KRW",
+		 "flag": "https://checkmobi.com/static/images/flags/KR-128.png"
+	},
+	{
+		"name": "Mexican Peso",
+		"code": "MXN",
+		"flag": "https://checkmobi.com/static/images/flags/MX-128.png"
+	},
+	
+    {
+		"name": "Malaysian Ringgit",
+		"code": "MYR",
+		"flag": "https://checkmobi.com/static/images/flags/MY-128.png"
+	},
+	{
+		"name": "Norwegian Krone",
+		"code": "NOK",
+		"flag": "https://checkmobi.com/static/images/flags/NO-128.png"
+	},
+	{
+		"name": "New Zealand Dollar",
+		"code": "NZD",
+		"flag": "https://checkmobi.com/static/images/flags/NZ-128.png"
+	},
+    {
+		"name": "Philippine Peso",
+		"code": "PHP",
+		"flag": "https://checkmobi.com/static/images/flags/PH-128.png"
+	},
+	{
+		"name": "Polish Zloty",
+		"code": "PLN",
+		"flag": "https://checkmobi.com/static/images/flags/PL-128.png"
+	},
+	{
+		"name": "Romanian Leu",
+		"code": "RON",
+		"flag": "https://checkmobi.com/static/images/flags/RO-128.png"
+	},
+	{
+		"name": "Russian Ruble",
+		"code": "RUB",
+		 "flag": "https://checkmobi.com/static/images/flags/RU-128.png"
+	},
+	{
+		"name": "Swedish Krona",
+		"code": "SEK",
+		"flag": "https://checkmobi.com/static/images/flags/SE-128.png"
+	},
+	{
+		"name": "Singapore Dollar",
+		"code": "SGD",
+		 "flag": "https://checkmobi.com/static/images/flags/SG-128.png"
+	},
+	{
+		"name": "Thai Baht",
+		"code": "THB",
+		"flag": "https://checkmobi.com/static/images/flags/TH-128.png"
+	},
+	{
+		"name": "South African Rand",
+		"code": "ZAR",
+		"flag": "https://checkmobi.com/static/images/flags/ZA-128.png"
+	},
+
+	{
+		"name" : "Euro",
+		"code" : "EUR",
+		"flag" : "https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/European-Union-Flag-icon.png"
+	}
+]
+}

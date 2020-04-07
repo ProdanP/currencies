@@ -1,0 +1,2 @@
+password: currency
+alias: currency

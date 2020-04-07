@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:paddingTop="@dimen/_8sdp"
+    android:paddingBottom="@dimen/_8sdp"
+    android:paddingStart="@dimen/_14sdp"
+    android:paddingEnd="@dimen/_14sdp"
+    android:id="@+id/rowContainer"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/currencyFlag"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:scaleType="centerCrop"
+        android:layout_centerVertical="true" />
+
+    <LinearLayout
+        android:layout_marginStart="@dimen/_14sdp"
+        android:layout_marginEnd="@dimen/_14sdp"
+        android:id="@+id/currencyNameContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@id/currencyEdit"
+        android:layout_toEndOf="@id/currencyFlag"
+        android:orientation="vertical">
+
+        <com.prodan.currency.presentation.views.styled_textview.TextViewStyled
+            android:id="@+id/currencyCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black_color"
+            android:textSize="@dimen/_12ssp"
+            app:fontName_text="@string/font_roboto_medium" />
+
+        <com.prodan.currency.presentation.views.styled_textview.TextViewStyled
+            android:id="@+id/currencyName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/gray_color"
+            android:textSize="@dimen/_11sdp"
+            app:fontName_text="@string/font_roboto_regular" />
+    </LinearLayout>
+
+
+    <EditText
+        android:maxLines="1"
+        android:id="@+id/currencyEdit"
+        android:inputType="numberDecimal"
+        android:imeOptions="actionDone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:minWidth="@dimen/_50sdp"
+        android:textSize="@dimen/_17ssp"
+        tools:ignore="Autofill,LabelFor" />
+
+</RelativeLayout>
